@@ -1,3 +1,1 @@
-# stache-boilerplate
-
-
+# Site used for Stache Training
