@@ -1,0 +1,10 @@
+{
+  "example": [
+    {
+     "title": "JSON",
+      "sample": "This is some text.",
+      "example": "This is an example.",
+      "link": "http://www.google.com"
+    }
+  ]
+}

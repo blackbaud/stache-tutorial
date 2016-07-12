@@ -1,0 +1,38 @@
+# =============================================
+# PRODUCT
+# =============================================
+product_name_long: My project or team name
+product_name_short: Your New Website
+title: <%= stache.config.product_name_short %> Documentation
+
+omnibar:
+  serviceName: <%= stache.config.product_name_short %>
+  serviceNameLink: <%= stache.config.base %>
+  enableServiceNameLink: true
+
+files:
+  css:
+    - /assets/css/custom.css
+  js:
+    #- /assets/js/custom.js
+
+what_is_stache: <%= stache.config.base %>stache/
+stache_site_setup: <%= stache.config.what_is_stache %>site-setup/
+
+content_creation: <%= stache.config.base %>content-creation/
+nav_patterns: <%= stache.config.content_creation %>nav-patterns/
+
+# =============================================
+# ADMIN TOOLBAR
+# =============================================
+showAdminToolbar: true
+github_repo: ENTER_GITHUB_REPO_HERE
+github_branch: ENTER_BRANCH_NAME_HERE
+github_token: ENTER_TOKEN_HERE
+
+# =============================================
+# BLOG
+# =============================================
+blog: <%= stache.config.base %>blog/
+comments: true
+comments_key: blackbaudstache
