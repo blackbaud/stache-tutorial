@@ -20,6 +20,9 @@ icon: plus
   <p>`<img src="../../../assets/img/githubrocket.png">`</p>
 </p>
 
+<a href="{{ stache.config.nav_patterns }}">Nav patterns</a>
+
+
 ### Markdown
 ![Github Rocket](../../../assets/img/githubrocket.png)
 
@@ -31,7 +34,7 @@ icon: plus
 <p>
   <h3>HTML</h3>
   <a href="{{ stache.config.base }}">Home</a>
-  <p ng-non-bindable>`<a href="{{ stache.config.base }}">Home</a>`</p>
+  <p ng-non-bindable>`<a href="\{{ stache.config.base }}">Home</a>`</p>
 </p>
 
 ### Markdown
