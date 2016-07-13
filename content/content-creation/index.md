@@ -50,3 +50,13 @@ This is an example paragraph. All you have to do is start typing!
 &lt;h1&gt;HTML Header&lt;/h1&gt;
 
 &lt;p&gt;You can use Markdown or HTML, depending on your preferences. You can even mix and match.&lt;/p&gt;</code></pre>
+
+## Layout
+
+layout-base
+
+layout-container
+
+layout-sidebar
+
+layout-panels

@@ -8,7 +8,7 @@ showNavDropdown: true
 
 # What is Stache?
 
-Stache is a static site generator that allows you to quickly generate responsive web documentation. Stache can be as simple or as powerful as you want it to be, and handles everything from simple Markdown documents to custom Angular applications.
+Stache is a static site generator that allows you to generate responsive web documentation. Static site generators take content, run it through layouts and templates, and spit out static html files that you can quickly deploy.  
 
 ## Getting Started
 

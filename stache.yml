@@ -1,8 +1,8 @@
 # =============================================
 # PRODUCT
 # =============================================
-product_name_long: My project or team name
-product_name_short: Your New Website
+product_name_long: Stache Tutorial Site
+product_name_short: Stache Tutorial
 title: <%= stache.config.product_name_short %> Documentation
 
 omnibar:
